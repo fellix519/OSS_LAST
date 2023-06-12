@@ -1,6 +1,7 @@
 # Project Title
 ----------------
 A brief description of what this project does and who is's for.
+
 <http://logo_link>
 
 ## Badges
@@ -20,4 +21,4 @@ Include some badges such as build status, test coverage, etc;
     cd projectname
     pip install requreents.txt
 
-<http://badge_link>
+
