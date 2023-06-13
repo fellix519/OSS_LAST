@@ -1,0 +1,11 @@
+#모든 확장자 .a 파일을 무시
+*.ssh
+*.vscode
+*.DS_Store
+data/
+
+#무시하는 모든 확장자 .a ㅏ일들 중에서 
+
+# Visual Studio Code generated files
+.vscode/
+

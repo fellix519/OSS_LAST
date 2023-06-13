@@ -10,9 +10,9 @@ Include some badges such as build status, test coverage, etc;
 <http://badge_link>
 
 ## Features
--Feature 1
--Feature 2
--Feature 3
+- eature 1
+- Feature 2
+- Feature 3
 
 ----------------
 ## Installation
